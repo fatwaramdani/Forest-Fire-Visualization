@@ -146,7 +146,7 @@ The following examples illustrate the difference between the original SWIR-based
 
 ### Natural Colour Visualization
 
-![Natural colour visualization using Sentinel-2](IMAGES/natural-colour.png)
+![Natural colour visualization using Sentinel-2](natural-colour.png)
 
 *Figure 1. Natural colour visualization.*
 
