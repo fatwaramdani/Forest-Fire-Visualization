@@ -4,18 +4,18 @@ The following examples illustrate the difference between the original SWIR-based
 
 ### Natural Colour Visualization
 
-![Natural colour visualization using Sentinel-2](images/Screenshot%202026-10-16%20at%2013.52.56.png)
+![Natural colour visualization using Sentinel-2](IMAGES/natural-colour.png)
 *Figure 1. Natural colour visualization.*
 
 ### Original Visualization
 
-![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](images/original-visualization.png)
+![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](IMAGES/SWIR-based.png)
 
 *Figure 2. Original visualization using the B11–B12 spectral index and `HighlightCompressVisualizerSingle`.*
 
 ### Updated Red-Highlighted Visualization
 
-![Updated SWIR-based visualization with red highlights and grayscale background](images/red-highlighted-visualization.png)
+![Updated SWIR-based visualization with red highlights and grayscale background](IMAGES/Red-Highlighted.png)
 
 *Figure 3. Updated visualization highlighting pixels exceeding a user-defined spectral-index threshold in red, while displaying other pixels in grayscale.*
 
