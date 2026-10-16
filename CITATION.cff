@@ -1,1 +1,14 @@
 
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository."
+type: software
+title: "SWIR-Based Fire Visualization Using Sentinel-2"
+authors:
+  - family-names: "Rachmadhi Putra"
+    given-names: "Adzanil"
+  - family-names: "Ramdani"
+    given-names: "Fatwa"
+version: "1.0.0"
+date-released: "2026-10-16"
+url: "YOUR-REPOSITORY-URL"
+
