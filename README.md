@@ -140,6 +140,30 @@ This script is intended for visual exploration of SWIR spectral patterns that ma
 
 For active-fire monitoring, consider complementary thermal-anomaly observations from [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/), which provides active-fire information derived from satellite observations.
 
+## Visualization Examples
+
+The following examples illustrate the difference between the natural-colour image, the original SWIR-based visualization, and the updated red-highlighted version.
+
+### Natural Colour Visualization
+
+![Natural colour visualization using Sentinel-2](natural-colour.png)
+
+*Figure 1. Natural-colour visualization using Sentinel-2 imagery.*
+
+### Original Visualization
+
+![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](SWIR-based.png)
+
+*Figure 2. Original visualization using the B11–B12 spectral index and `HighlightCompressVisualizerSingle`.*
+
+### Updated Red-Highlighted Visualization
+
+![Updated SWIR-based visualization with red highlights and grayscale background](Red-Highlighted.png)
+
+*Figure 3. Updated visualization highlighting pixels exceeding a user-defined spectral-index threshold in red, while displaying other pixels in grayscale.*
+
+**Note:** Red pixels represent spectral-index threshold exceedances, not confirmed active fires. Both visualizations are subject to cloud obstruction and other limitations of optical satellite imagery.
+
 ## Reuse and Attribution
 
 Researchers, students, and practitioners are welcome to use this code as a starting point for their own remote-sensing visualization workflows, subject to the repository's license and applicable third-party terms.
