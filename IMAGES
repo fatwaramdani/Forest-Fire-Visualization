@@ -20,4 +20,4 @@ The following examples illustrate the difference between the natural-colour imag
 
 *Figure 3. Updated visualization highlighting pixels exceeding a user-defined spectral-index threshold in red, while displaying other pixels in grayscale.*
 
-**Note:** Red pixels represent spectral-index threshold exceedances, not confirmed active fires. Both visualizations are subject to cloud obstruction and other limitations of optical satellite imagery.
+**Note:** Red pixels represent spectral-index threshold exceedances, not confirmed active fires from the fields. Both visualizations are subject to cloud obstruction and other limitations of optical satellite imagery.
