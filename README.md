@@ -184,9 +184,9 @@ If you use or adapt this script in academic research, please cite the repository
 - Rachmadhi Putra, A., & Ramdani, F. (2019). *SWIR-based fire visualization using Sentinel-2 (version-01)* [Source code]. GitHub. https://github.com/fatwaramdani/Forest-Fire-Visualization/
 - Ramdani, F. (2026). *SWIR-based fire visualization using Sentinel-2 with Red-Highlighted Visualization (version-02)* [Source code]. GitHub. https://github.com/fatwaramdani/Forest-Fire-Visualization/
 
-**In-text citation:** (Rachmadhi Putra & Ramdani, 2026)
+**In-text citation:** (Rachmadhi Putra & Ramdani, 2019) or (Ramdani, 2026)
 
-**Narrative citation:** Rachmadhi Putra and Ramdani (2026)
+**Narrative citation:** Rachmadhi Putra and Ramdani (2019) or Ramdani (2026)
 
 When reusing the code, retain the original authorship attribution and comply with the repository's license and applicable third-party terms.
 
