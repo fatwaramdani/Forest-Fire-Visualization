@@ -162,8 +162,6 @@ Rachmadhi Putra, A., & Ramdani, F. (2026). *SWIR-based fire visualization using 
 
 **Narrative citation:** Rachmadhi Putra and Ramdani (2026)
 
-Please replace `YOUR-REPOSITORY-URL` with the URL of this repository. If you publish a versioned release or archive the code with a DOI, update the reference to point to that permanent version.
-
 When reusing the code, retain the original authorship attribution and comply with the repository's license and applicable third-party terms.
 
 ## Acknowledgment
