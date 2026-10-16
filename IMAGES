@@ -1,0 +1,17 @@
+## Visualization Examples
+
+The following examples illustrate the difference between the original SWIR-based visualization and the updated red-highlighted version.
+
+### Original Visualization
+
+![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](images/original-visualization.png)
+
+*Figure 1. Original visualization using the B11–B12 spectral index and `HighlightCompressVisualizerSingle`.*
+
+### Updated Red-Highlighted Visualization
+
+![Updated SWIR-based visualization with red highlights and grayscale background](images/red-highlighted-visualization.png)
+
+*Figure 2. Updated visualization highlighting pixels exceeding a user-defined spectral-index threshold in red, while displaying other pixels in grayscale.*
+
+**Note:** Red pixels represent spectral-index threshold exceedances, not confirmed active fires. Both visualizations are subject to cloud obstruction and other limitations of optical satellite imagery.
