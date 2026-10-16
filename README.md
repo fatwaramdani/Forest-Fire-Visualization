@@ -142,27 +142,28 @@ For active-fire monitoring, consider complementary thermal-anomaly observations 
 
 ## Visualization Examples
 
-The following examples illustrate the difference between the natural-colour image, the original SWIR-based visualization, and the updated red-highlighted version.
+The following examples illustrate the difference between the original SWIR-based visualization and the updated red-highlighted version.
 
 ### Natural Colour Visualization
 
-![Natural colour visualization using Sentinel-2](natural-colour.png)
+![Natural colour visualization using Sentinel-2](IMAGES/natural-colour.png)
 
-*Figure 1. Natural-colour visualization using Sentinel-2 imagery.*
+*Figure 1. Natural colour visualization.*
 
 ### Original Visualization
 
-![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](Screenshot 2026-10-16 at 13.53.04.png)
+![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](IMAGES/SWIR-based.png)
 
 *Figure 2. Original visualization using the B11–B12 spectral index and `HighlightCompressVisualizerSingle`.*
 
 ### Updated Red-Highlighted Visualization
 
-![Updated SWIR-based visualization with red highlights and grayscale background](Red-Highlighted.png)
+![Updated SWIR-based visualization with red highlights and grayscale background](IMAGES/Red-Highlighted.png)
 
 *Figure 3. Updated visualization highlighting pixels exceeding a user-defined spectral-index threshold in red, while displaying other pixels in grayscale.*
 
 **Note:** Red pixels represent spectral-index threshold exceedances, not confirmed active fires. Both visualizations are subject to cloud obstruction and other limitations of optical satellite imagery.
+
 
 ## Reuse and Attribution
 
