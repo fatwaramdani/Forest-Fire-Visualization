@@ -152,13 +152,13 @@ The following examples illustrate the difference between the original SWIR-based
 
 ### Original Visualization
 
-![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](IMAGES/SWIR-based.png)
+![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](SWIR-based.png)
 
 *Figure 2. Original visualization using the B11–B12 spectral index and `HighlightCompressVisualizerSingle`.*
 
 ### Updated Red-Highlighted Visualization
 
-![Updated SWIR-based visualization with red highlights and grayscale background](IMAGES/Red-Highlighted.png)
+![Updated SWIR-based visualization with red highlights and grayscale background](Red-Highlighted.png)
 
 *Figure 3. Updated visualization highlighting pixels exceeding a user-defined spectral-index threshold in red, while displaying other pixels in grayscale.*
 
