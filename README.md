@@ -142,7 +142,7 @@ For active-fire monitoring, consider complementary thermal-anomaly observations 
 
 ## Visualization Examples
 
-The following examples illustrate the difference between the original SWIR-based visualization and the updated red-highlighted version.
+The following examples illustrate the difference between the natural colour, original SWIR-based visualisation, and the updated red-highlighted version.
 
 ### Natural Colour Visualization
 
