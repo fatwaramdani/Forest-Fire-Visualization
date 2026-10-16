@@ -152,7 +152,7 @@ The following examples illustrate the difference between the natural-colour imag
 
 ### Original Visualization
 
-![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](SWIR-based.png)
+![Original SWIR-based visualization using Sentinel-2 bands B11 and B12](Screenshot 2026-10-16 at 13.53.04.png)
 
 *Figure 2. Original visualization using the B11–B12 spectral index and `HighlightCompressVisualizerSingle`.*
 
