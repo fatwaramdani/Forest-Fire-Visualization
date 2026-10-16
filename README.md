@@ -19,9 +19,9 @@ The updated version is designed to make potential areas of interest easier to di
 
 The original script calculates the following index:
 
-\[
-I = 8.5 \times \frac{B12-B11}{B12+B11+0.25}
-\]
+$$
+I = 8.5 \times \frac{B_{12}-B_{11}}{B_{12}+B_{11}+0.25}
+$$
 
 It then applies `HighlightCompressVisualizerSingle` to visualize the calculated values.
 
