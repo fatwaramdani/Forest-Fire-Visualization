@@ -156,7 +156,7 @@ If you use or adapt this script in academic research, please cite the repository
 
 **APA reference**
 
-Rachmadhi Putra, A., & Ramdani, F. (2026). *SWIR-based fire visualization using Sentinel-2* [Source code]. GitHub. YOUR-REPOSITORY-URL
+Rachmadhi Putra, A., & Ramdani, F. (2026). *SWIR-based fire visualization using Sentinel-2* [Source code]. GitHub. https://github.com/fatwaramdani/Forest-Fire-Visualization/
 
 **In-text citation:** (Rachmadhi Putra & Ramdani, 2026)
 
